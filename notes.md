@@ -107,3 +107,18 @@ As the name implies, help is a command used to show more information about the b
 help command
 ```
 
+## echo
+`echo` can be used to just display text on the screen
+ ```shell
+echo hello there
+```
+ or save text to a file.
+ ```shell
+echo hey there > greet.txt
+```
+
+## del
+`del` is used to delete a file.
+ ```shell
+del greet.txt
+```
